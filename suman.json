@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "name": "Video Game",
+    "manufacturer": "Toshiba",
+    "price": 149.71,
+    "unit_sold": 645
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "manufacturer": "Realme",
+    "price": 512.76,
+    "unit_sold": 966
+  },
+  {
+    "id": 3,
+    "name": "TV",
+    "manufacturer": "Samsung",
+    "price": 632.92,
+    "unit_sold": 920
+  },
+  {
+    "id": 4,
+    "name": "Smart Home Device",
+    "manufacturer": "Xiaomi",
+    "price": 151.32,
+    "unit_sold": 383
+  },
+  {
+    "id": 5,
+    "name": "Microwave",
+    "manufacturer": "Dell",
+    "price": 544.21,
+    "unit_sold": 472
+  },
+  {
+    "id": 6,
+    "name": "Washing Machine",
+    "manufacturer": "Samsung",
+    "price": 128.89,
+    "unit_sold": 464
+  },
+  {
+    "id": 7,
+    "name": "Video Game",
+    "manufacturer": "Apple",
+    "price": 666.27,
+    "unit_sold": 906
+  },
+  {
+    "id": 8,
+    "name": "Video Game",
+    "manufacturer": "Vivo",
+    "price": 577.39,
+    "unit_sold": 971
+  },
+  {
+    "id": 9,
+    "name": "Router",
+    "manufacturer": "Apple",
+    "price": 304.0,
+    "unit_sold": 322
+  },
+  {
+    "id": 10,
+    "name": "Smart Home Device",
+    "manufacturer": "HP",
+    "price": 311.78,
+    "unit_sold": 482
+  },
+  {
+    "id": 11,
+    "name": "Smartphone",
+    "manufacturer": "Xiaomi",
+    "price": 195.15,
+    "unit_sold": 460
+  },
+  {
+    "id": 12,
+    "name": "Smart Home Device",
+    "manufacturer": "HP",
+    "price": 739.17,
+    "unit_sold": 211
+  },
+  {
+    "id": 13,
+    "name": "Microwave",
+    "manufacturer": "Philips",
+    "price": 680.94,
+    "unit_sold": 92
+  },
+  {
+    "id": 14,
+    "name": "Refrigerator",
+    "manufacturer": "Acer",
+    "price": 870.2,
+    "unit_sold": 281
+  },
+  {
+    "id": 15,
+    "name": "Drone",
+    "manufacturer": "Acer",
+    "price": 807.42,
+    "unit_sold": 861
+  },
+  {
+    "id": 16,
+    "name": "Toaster",
+    "manufacturer": "Philips",
+    "price": 721.07,
+    "unit_sold": 261
+  },
+  {
+    "id": 17,
+    "name": "Laptop",
+    "manufacturer": "Google",
+    "price": 302.97,
+    "unit_sold": 676
+  },
+  {
+    "id": 18,
+    "name": "Watch",
+    "manufacturer": "Apple",
+    "price": 80.18,
+    "unit_sold": 813
+  },
+  {
+    "id": 19,
+    "name": "Refrigerator",
+    "manufacturer": "Acer",
+    "price": 400.85,
+    "unit_sold": 845
+  },
+  {
+    "id": 20,
+    "name": "Tablet",
+    "manufacturer": "LG",
+    "price": 844.99,
+    "unit_sold": 977
+  },
+  {
+    "id": 21,
+    "name": "Watch",
+    "manufacturer": "Vivo",
+    "price": 785.5,
+    "unit_sold": 672
+  },
+  {
+    "id": 22,
+    "name": "Drone",
+    "manufacturer": "LG",
+    "price": 230.08,
+    "unit_sold": 661
+  },
+  {
+    "id": 23,
+    "name": "Air Conditioner",
+    "manufacturer": "Xiaomi",
+    "price": 62.07,
+    "unit_sold": 445
+  },
+  {
+    "id": 24,
+    "name": "Toaster",
+    "manufacturer": "Realme",
+    "price": 301.09,
+    "unit_sold": 61
+  },
+  {
+    "id": 25,
+    "name": "Toaster",
+    "manufacturer": "Sony",
+    "price": 894.63,
+    "unit_sold": 245
+  },
+  {
+    "id": 26,
+    "name": "Blender",
+    "manufacturer": "Huawei",
+    "price": 318.23,
+    "unit_sold": 846
+  },
+  {
+    "id": 27,
+    "name": "Video Game",
+    "manufacturer": "Huawei",
+    "price": 609.35,
+    "unit_sold": 180
+  },
+  {
+    "id": 28,
+    "name": "Refrigerator",
+    "manufacturer": "Xiaomi",
+    "price": 173.97,
+    "unit_sold": 63
+  },
+  {
+    "id": 29,
+    "name": "Game Console",
+    "manufacturer": "Sony",
+    "price": 260.4,
+    "unit_sold": 95
+  },
+  {
+    "id": 30,
+    "name": "Drone",
+    "manufacturer": "Oppo",
+    "price": 360.44,
+    "unit_sold": 398
+  },
+  {
+    "id": 31,
+    "name": "Speaker",
+    "manufacturer": "Asus",
+    "price": 594.29,
+    "unit_sold": 119
+  },
+  {
+    "id": 32,
+    "name": "Toaster",
+    "manufacturer": "Samsung",
+    "price": 824.04,
+    "unit_sold": 623
+  },
+  {
+    "id": 33,
+    "name": "Blender",
+    "manufacturer": "Philips",
+    "price": 704.0,
+    "unit_sold": 264
+  },
+  {
+    "id": 34,
+    "name": "Headphones",
+    "manufacturer": "Toshiba",
+    "price": 739.2,
+    "unit_sold": 930
+  },
+  {
+    "id": 35,
+    "name": "Laptop",
+    "manufacturer": "Samsung",
+    "price": 367.35,
+    "unit_sold": 391
+  },
+  {
+    "id": 36,
+    "name": "Washing Machine",
+    "manufacturer": "Apple",
+    "price": 356.29,
+    "unit_sold": 676
+  },
+  {
+    "id": 37,
+    "name": "Smartphone",
+    "manufacturer": "Huawei",
+    "price": 325.81,
+    "unit_sold": 69
+  },
+  {
+    "id": 38,
+    "name": "Tablet",
+    "manufacturer": "Philips",
+    "price": 123.29,
+    "unit_sold": 352
+  },
+  {
+    "id": 39,
+    "name": "Toaster",
+    "manufacturer": "LG",
+    "price": 72.07,
+    "unit_sold": 928
+  },
+  {
+    "id": 40,
+    "name": "Washing Machine",
+    "manufacturer": "Realme",
+    "price": 590.15,
+    "unit_sold": 22
+  },
+  {
+    "id": 41,
+    "name": "Watch",
+    "manufacturer": "Asus",
+    "price": 148.17,
+    "unit_sold": 312
+  },
+  {
+    "id": 42,
+    "name": "Router",
+    "manufacturer": "Vivo",
+    "price": 234.35,
+    "unit_sold": 985
+  },
+  {
+    "id": 43,
+    "name": "Drone",
+    "manufacturer": "Realme",
+    "price": 938.92,
+    "unit_sold": 371
+  },
+  {
+    "id": 44,
+    "name": "Game Console",
+    "manufacturer": "Apple",
+    "price": 530.05,
+    "unit_sold": 373
+  },
+  {
+    "id": 45,
+    "name": "Speaker",
+    "manufacturer": "Xiaomi",
+    "price": 789.96,
+    "unit_sold": 459
+  },
+  {
+    "id": 46,
+    "name": "Router",
+    "manufacturer": "Philips",
+    "price": 332.7,
+    "unit_sold": 466
+  },
+  {
+    "id": 47,
+    "name": "Microwave",
+    "manufacturer": "Dell",
+    "price": 369.38,
+    "unit_sold": 743
+  },
+  {
+    "id": 48,
+    "name": "Air Conditioner",
+    "manufacturer": "Realme",
+    "price": 482.25,
+    "unit_sold": 747
+  },
+  {
+    "id": 49,
+    "name": "Laptop",
+    "manufacturer": "Xiaomi",
+    "price": 97.58,
+    "unit_sold": 850
+  },
+  {
+    "id": 50,
+    "name": "Headphones",
+    "manufacturer": "Toshiba",
+    "price": 343.36,
+    "unit_sold": 447
+  },
+  {
+    "id": 51,
+    "name": "Smart Home Device",
+    "manufacturer": "Samsung",
+    "price": 177.4,
+    "unit_sold": 476
+  },
+  {
+    "id": 52,
+    "name": "Smartphone",
+    "manufacturer": "Toshiba",
+    "price": 211.37,
+    "unit_sold": 690
+  },
+  {
+    "id": 53,
+    "name": "Smartphone",
+    "manufacturer": "LG",
+    "price": 664.52,
+    "unit_sold": 658
+  },
+  {
+    "id": 54,
+    "name": "Drone",
+    "manufacturer": "Google",
+    "price": 466.52,
+    "unit_sold": 162
+  },
+  {
+    "id": 55,
+    "name": "Toaster",
+    "manufacturer": "Toshiba",
+    "price": 836.2,
+    "unit_sold": 716
+  },
+  {
+    "id": 56,
+    "name": "Video Game",
+    "manufacturer": "Samsung",
+    "price": 664.91,
+    "unit_sold": 874
+  },
+  {
+    "id": 57,
+    "name": "Washing Machine",
+    "manufacturer": "Sony",
+    "price": 706.79,
+    "unit_sold": 238
+  },
+  {
+    "id": 58,
+    "name": "Smartphone",
+    "manufacturer": "LG",
+    "price": 902.68,
+    "unit_sold": 192
+  },
+  {
+    "id": 59,
+    "name": "Smart Home Device",
+    "manufacturer": "OnePlus",
+    "price": 302.41,
+    "unit_sold": 898
+  },
+  {
+    "id": 60,
+    "name": "Video Game",
+    "manufacturer": "Apple",
+    "price": 59.29,
+    "unit_sold": 847
+  },
+  {
+    "id": 61,
+    "name": "Laptop",
+    "manufacturer": "OnePlus",
+    "price": 567.74,
+    "unit_sold": 487
+  },
+  {
+    "id": 62,
+    "name": "Microwave",
+    "manufacturer": "Lenovo",
+    "price": 800.71,
+    "unit_sold": 722
+  },
+  {
+    "id": 63,
+    "name": "Washing Machine",
+    "manufacturer": "HP",
+    "price": 779.62,
+    "unit_sold": 419
+  },
+  {
+    "id": 64,
+    "name": "Video Game",
+    "manufacturer": "HP",
+    "price": 654.63,
+    "unit_sold": 720
+  },
+  {
+    "id": 65,
+    "name": "Headphones",
+    "manufacturer": "Dell",
+    "price": 308.27,
+    "unit_sold": 240
+  },
+  {
+    "id": 66,
+    "name": "Air Conditioner",
+    "manufacturer": "Samsung",
+    "price": 294.48,
+    "unit_sold": 490
+  },
+  {
+    "id": 67,
+    "name": "Game Console",
+    "manufacturer": "LG",
+    "price": 331.2,
+    "unit_sold": 690
+  },
+  {
+    "id": 68,
+    "name": "Headphones",
+    "manufacturer": "Acer",
+    "price": 982.66,
+    "unit_sold": 180
+  },
+  {
+    "id": 69,
+    "name": "Blender",
+    "manufacturer": "Lenovo",
+    "price": 248.78,
+    "unit_sold": 604
+  },
+  {
+    "id": 70,
+    "name": "Game Console",
+    "manufacturer": "Xiaomi",
+    "price": 321.95,
+    "unit_sold": 105
+  },
+  {
+    "id": 71,
+    "name": "Blender",
+    "manufacturer": "LG",
+    "price": 398.1,
+    "unit_sold": 149
+  },
+  {
+    "id": 72,
+    "name": "Toaster",
+    "manufacturer": "Google",
+    "price": 388.05,
+    "unit_sold": 41
+  },
+  {
+    "id": 73,
+    "name": "Microwave",
+    "manufacturer": "Samsung",
+    "price": 146.11,
+    "unit_sold": 880
+  },
+  {
+    "id": 74,
+    "name": "Router",
+    "manufacturer": "HP",
+    "price": 788.36,
+    "unit_sold": 703
+  },
+  {
+    "id": 75,
+    "name": "Toaster",
+    "manufacturer": "Xiaomi",
+    "price": 368.45,
+    "unit_sold": 288
+  },
+  {
+    "id": 76,
+    "name": "Blender",
+    "manufacturer": "Sony",
+    "price": 96.31,
+    "unit_sold": 25
+  },
+  {
+    "id": 77,
+    "name": "Drone",
+    "manufacturer": "Realme",
+    "price": 930.46,
+    "unit_sold": 49
+  },
+  {
+    "id": 78,
+    "name": "Speaker",
+    "manufacturer": "Sony",
+    "price": 210.7,
+    "unit_sold": 630
+  },
+  {
+    "id": 79,
+    "name": "Microwave",
+    "manufacturer": "Microsoft",
+    "price": 942.46,
+    "unit_sold": 520
+  },
+  {
+    "id": 80,
+    "name": "Tablet",
+    "manufacturer": "HP",
+    "price": 255.42,
+    "unit_sold": 401
+  },
+  {
+    "id": 81,
+    "name": "Camera",
+    "manufacturer": "Sony",
+    "price": 973.74,
+    "unit_sold": 520
+  },
+  {
+    "id": 82,
+    "name": "Refrigerator",
+    "manufacturer": "Microsoft",
+    "price": 74.95,
+    "unit_sold": 332
+  },
+  {
+    "id": 83,
+    "name": "Smartphone",
+    "manufacturer": "Huawei",
+    "price": 578.03,
+    "unit_sold": 333
+  },
+  {
+    "id": 84,
+    "name": "Headphones",
+    "manufacturer": "Microsoft",
+    "price": 152.99,
+    "unit_sold": 336
+  },
+  {
+    "id": 85,
+    "name": "Video Game",
+    "manufacturer": "Xiaomi",
+    "price": 403.87,
+    "unit_sold": 591
+  },
+  {
+    "id": 86,
+    "name": "Camera",
+    "manufacturer": "LG",
+    "price": 487.22,
+    "unit_sold": 39
+  },
+  {
+    "id": 87,
+    "name": "Headphones",
+    "manufacturer": "Realme",
+    "price": 101.68,
+    "unit_sold": 202
+  },
+  {
+    "id": 88,
+    "name": "Router",
+    "manufacturer": "Samsung",
+    "price": 651.13,
+    "unit_sold": 339
+  },
+  {
+    "id": 89,
+    "name": "Camera",
+    "manufacturer": "Panasonic",
+    "price": 879.77,
+    "unit_sold": 469
+  },
+  {
+    "id": 90,
+    "name": "Air Conditioner",
+    "manufacturer": "Asus",
+    "price": 953.7,
+    "unit_sold": 738
+  },
+  {
+    "id": 91,
+    "name": "Toaster",
+    "manufacturer": "Oppo",
+    "price": 548.5,
+    "unit_sold": 884
+  },
+  {
+    "id": 92,
+    "name": "Speaker",
+    "manufacturer": "Dell",
+    "price": 992.12,
+    "unit_sold": 955
+  },
+  {
+    "id": 93,
+    "name": "Air Conditioner",
+    "manufacturer": "Toshiba",
+    "price": 206.67,
+    "unit_sold": 816
+  },
+  {
+    "id": 94,
+    "name": "Laptop",
+    "manufacturer": "Oppo",
+    "price": 754.78,
+    "unit_sold": 667
+  },
+  {
+    "id": 95,
+    "name": "Refrigerator",
+    "manufacturer": "Philips",
+    "price": 758.4,
+    "unit_sold": 587
+  },
+  {
+    "id": 96,
+    "name": "Headphones",
+    "manufacturer": "OnePlus",
+    "price": 958.97,
+    "unit_sold": 288
+  },
+  {
+    "id": 97,
+    "name": "Drone",
+    "manufacturer": "Toshiba",
+    "price": 195.67,
+    "unit_sold": 447
+  },
+  {
+    "id": 98,
+    "name": "Router",
+    "manufacturer": "Vivo",
+    "price": 504.59,
+    "unit_sold": 867
+  },
+  {
+    "id": 99,
+    "name": "Router",
+    "manufacturer": "Lenovo",
+    "price": 230.04,
+    "unit_sold": 620
+  },
+  {
+    "id": 100,
+    "name": "Drone",
+    "manufacturer": "Microsoft",
+    "price": 930.2,
+    "unit_sold": 754
+  },
+  {
+    "id": 101,
+    "name": "Speaker",
+    "manufacturer": "Vivo",
+    "price": 353.47,
+    "unit_sold": 177
+  },
+  {
+    "id": 102,
+    "name": "Router",
+    "manufacturer": "Asus",
+    "price": 218.44,
+    "unit_sold": 896
+  },
+  {
+    "id": 103,
+    "name": "Tablet",
+    "manufacturer": "Toshiba",
+    "price": 306.74,
+    "unit_sold": 91
+  },
+  {
+    "id": 104,
+    "name": "Camera",
+    "manufacturer": "Huawei",
+    "price": 561.37,
+    "unit_sold": 57
+  },
+  {
+    "id": 105,
+    "name": "Microwave",
+    "manufacturer": "Sony",
+    "price": 845.43,
+    "unit_sold": 818
+  },
+  {
+    "id": 106,
+    "name": "Watch",
+    "manufacturer": "Google",
+    "price": 605.33,
+    "unit_sold": 39
+  },
+  {
+    "id": 107,
+    "name": "Speaker",
+    "manufacturer": "Oppo",
+    "price": 321.05,
+    "unit_sold": 263
+  },
+  {
+    "id": 108,
+    "name": "Smartphone",
+    "manufacturer": "Asus",
+    "price": 945.58,
+    "unit_sold": 710
+  },
+  {
+    "id": 109,
+    "name": "Microwave",
+    "manufacturer": "Apple",
+    "price": 400.95,
+    "unit_sold": 446
+  },
+  {
+    "id": 110,
+    "name": "Laptop",
+    "manufacturer": "Xiaomi",
+    "price": 186.28,
+    "unit_sold": 147
+  },
+  {
+    "id": 111,
+    "name": "Watch",
+    "manufacturer": "Huawei",
+    "price": 640.49,
+    "unit_sold": 261
+  },
+  {
+    "id": 112,
+    "name": "Washing Machine",
+    "manufacturer": "Panasonic",
+    "price": 460.74,
+    "unit_sold": 129
+  },
+  {
+    "id": 113,
+    "name": "Washing Machine",
+    "manufacturer": "Philips",
+    "price": 950.27,
+    "unit_sold": 709
+  },
+  {
+    "id": 114,
+    "name": "Camera",
+    "manufacturer": "Xiaomi",
+    "price": 693.6,
+    "unit_sold": 773
+  },
+  {
+    "id": 115,
+    "name": "Watch",
+    "manufacturer": "Panasonic",
+    "price": 952.13,
+    "unit_sold": 93
+  },
+  {
+    "id": 116,
+    "name": "Laptop",
+    "manufacturer": "Acer",
+    "price": 685.54,
+    "unit_sold": 347
+  },
+  {
+    "id": 117,
+    "name": "Drone",
+    "manufacturer": "Vivo",
+    "price": 873.73,
+    "unit_sold": 602
+  },
+  {
+    "id": 118,
+    "name": "Headphones",
+    "manufacturer": "Dell",
+    "price": 161.41,
+    "unit_sold": 140
+  },
+  {
+    "id": 119,
+    "name": "Camera",
+    "manufacturer": "Asus",
+    "price": 133.44,
+    "unit_sold": 911
+  },
+  {
+    "id": 120,
+    "name": "Headphones",
+    "manufacturer": "Toshiba",
+    "price": 351.61,
+    "unit_sold": 789
+  },
+  {
+    "id": 121,
+    "name": "Laptop",
+    "manufacturer": "Microsoft",
+    "price": 959.7,
+    "unit_sold": 826
+  },
+  {
+    "id": 122,
+    "name": "Microwave",
+    "manufacturer": "Toshiba",
+    "price": 822.88,
+    "unit_sold": 359
+  },
+  {
+    "id": 123,
+    "name": "Game Console",
+    "manufacturer": "OnePlus",
+    "price": 615.33,
+    "unit_sold": 724
+  },
+  {
+    "id": 124,
+    "name": "Blender",
+    "manufacturer": "Panasonic",
+    "price": 256.19,
+    "unit_sold": 499
+  },
+  {
+    "id": 125,
+    "name": "Laptop",
+    "manufacturer": "Microsoft",
+    "price": 409.98,
+    "unit_sold": 923
+  },
+  {
+    "id": 126,
+    "name": "Video Game",
+    "manufacturer": "Panasonic",
+    "price": 837.33,
+    "unit_sold": 314
+  },
+  {
+    "id": 127,
+    "name": "Air Conditioner",
+    "manufacturer": "Vivo",
+    "price": 671.32,
+    "unit_sold": 538
+  },
+  {
+    "id": 128,
+    "name": "Camera",
+    "manufacturer": "Vivo",
+    "price": 410.52,
+    "unit_sold": 932
+  },
+  {
+    "id": 129,
+    "name": "Toaster",
+    "manufacturer": "Philips",
+    "price": 323.14,
+    "unit_sold": 831
+  },
+  {
+    "id": 130,
+    "name": "Smart Home Device",
+    "manufacturer": "Oppo",
+    "price": 381.43,
+    "unit_sold": 218
+  },
+  {
+    "id": 131,
+    "name": "Washing Machine",
+    "manufacturer": "Asus",
+    "price": 178.52,
+    "unit_sold": 324
+  },
+  {
+    "id": 132,
+    "name": "Headphones",
+    "manufacturer": "Vivo",
+    "price": 674.93,
+    "unit_sold": 212
+  },
+  {
+    "id": 133,
+    "name": "Headphones",
+    "manufacturer": "Panasonic",
+    "price": 107.63,
+    "unit_sold": 811
+  },
+  {
+    "id": 134,
+    "name": "Headphones",
+    "manufacturer": "OnePlus",
+    "price": 879.23,
+    "unit_sold": 946
+  },
+  {
+    "id": 135,
+    "name": "Camera",
+    "manufacturer": "Google",
+    "price": 83.12,
+    "unit_sold": 794
+  },
+  {
+    "id": 136,
+    "name": "Game Console",
+    "manufacturer": "OnePlus",
+    "price": 444.63,
+    "unit_sold": 180
+  },
+  {
+    "id": 137,
+    "name": "Smart Home Device",
+    "manufacturer": "Apple",
+    "price": 586.74,
+    "unit_sold": 792
+  },
+  {
+    "id": 138,
+    "name": "Drone",
+    "manufacturer": "Sony",
+    "price": 197.35,
+    "unit_sold": 932
+  },
+  {
+    "id": 139,
+    "name": "Watch",
+    "manufacturer": "Xiaomi",
+    "price": 322.58,
+    "unit_sold": 567
+  },
+  {
+    "id": 140,
+    "name": "Video Game",
+    "manufacturer": "OnePlus",
+    "price": 785.43,
+    "unit_sold": 93
+  },
+  {
+    "id": 141,
+    "name": "Laptop",
+    "manufacturer": "Xiaomi",
+    "price": 133.66,
+    "unit_sold": 947
+  },
+  {
+    "id": 142,
+    "name": "Refrigerator",
+    "manufacturer": "Panasonic",
+    "price": 97.16,
+    "unit_sold": 127
+  },
+  {
+    "id": 143,
+    "name": "Smart Home Device",
+    "manufacturer": "Asus",
+    "price": 50.58,
+    "unit_sold": 811
+  },
+  {
+    "id": 144,
+    "name": "Game Console",
+    "manufacturer": "OnePlus",
+    "price": 608.41,
+    "unit_sold": 322
+  },
+  {
+    "id": 145,
+    "name": "Camera",
+    "manufacturer": "Lenovo",
+    "price": 536.73,
+    "unit_sold": 411
+  },
+  {
+    "id": 146,
+    "name": "Toaster",
+    "manufacturer": "Asus",
+    "price": 198.89,
+    "unit_sold": 486
+  },
+  {
+    "id": 147,
+    "name": "Air Conditioner",
+    "manufacturer": "Vivo",
+    "price": 172.26,
+    "unit_sold": 835
+  },
+  {
+    "id": 148,
+    "name": "Speaker",
+    "manufacturer": "Oppo",
+    "price": 176.88,
+    "unit_sold": 570
+  },
+  {
+    "id": 149,
+    "name": "Coffee Maker",
+    "manufacturer": "Philips",
+    "price": 825.2,
+    "unit_sold": 359
+  },
+  {
+    "id": 150,
+    "name": "Tablet",
+    "manufacturer": "Sony",
+    "price": 737.33,
+    "unit_sold": 805
+  },
+  {
+    "id": 151,
+    "name": "Speaker",
+    "manufacturer": "LG",
+    "price": 408.05,
+    "unit_sold": 807
+  },
+  {
+    "id": 152,
+    "name": "Coffee Maker",
+    "manufacturer": "Oppo",
+    "price": 502.14,
+    "unit_sold": 779
+  },
+  {
+    "id": 153,
+    "name": "Refrigerator",
+    "manufacturer": "Microsoft",
+    "price": 103.07,
+    "unit_sold": 642
+  },
+  {
+    "id": 154,
+    "name": "Blender",
+    "manufacturer": "Realme",
+    "price": 201.02,
+    "unit_sold": 964
+  },
+  {
+    "id": 155,
+    "name": "Refrigerator",
+    "manufacturer": "OnePlus",
+    "price": 313.1,
+    "unit_sold": 426
+  },
+  {
+    "id": 156,
+    "name": "Smartphone",
+    "manufacturer": "Google",
+    "price": 118.26,
+    "unit_sold": 185
+  },
+  {
+    "id": 157,
+    "name": "Refrigerator",
+    "manufacturer": "Toshiba",
+    "price": 653.0,
+    "unit_sold": 108
+  },
+  {
+    "id": 158,
+    "name": "Washing Machine",
+    "manufacturer": "Samsung",
+    "price": 623.78,
+    "unit_sold": 859
+  },
+  {
+    "id": 159,
+    "name": "Game Console",
+    "manufacturer": "Sony",
+    "price": 906.49,
+    "unit_sold": 544
+  },
+  {
+    "id": 160,
+    "name": "Toaster",
+    "manufacturer": "Samsung",
+    "price": 844.45,
+    "unit_sold": 19
+  },
+  {
+    "id": 161,
+    "name": "Washing Machine",
+    "manufacturer": "Realme",
+    "price": 487.47,
+    "unit_sold": 575
+  },
+  {
+    "id": 162,
+    "name": "Headphones",
+    "manufacturer": "Oppo",
+    "price": 214.69,
+    "unit_sold": 852
+  },
+  {
+    "id": 163,
+    "name": "Air Conditioner",
+    "manufacturer": "Samsung",
+    "price": 499.35,
+    "unit_sold": 805
+  },
+  {
+    "id": 164,
+    "name": "Smartphone",
+    "manufacturer": "Panasonic",
+    "price": 678.15,
+    "unit_sold": 226
+  },
+  {
+    "id": 165,
+    "name": "Video Game",
+    "manufacturer": "HP",
+    "price": 590.25,
+    "unit_sold": 543
+  },
+  {
+    "id": 166,
+    "name": "Refrigerator",
+    "manufacturer": "Oppo",
+    "price": 797.55,
+    "unit_sold": 552
+  },
+  {
+    "id": 167,
+    "name": "Coffee Maker",
+    "manufacturer": "Huawei",
+    "price": 198.27,
+    "unit_sold": 987
+  },
+  {
+    "id": 168,
+    "name": "Air Conditioner",
+    "manufacturer": "Asus",
+    "price": 568.78,
+    "unit_sold": 361
+  },
+  {
+    "id": 169,
+    "name": "Microwave",
+    "manufacturer": "Sony",
+    "price": 832.66,
+    "unit_sold": 860
+  },
+  {
+    "id": 170,
+    "name": "Game Console",
+    "manufacturer": "Toshiba",
+    "price": 965.27,
+    "unit_sold": 228
+  },
+  {
+    "id": 171,
+    "name": "Coffee Maker",
+    "manufacturer": "Apple",
+    "price": 947.51,
+    "unit_sold": 672
+  },
+  {
+    "id": 172,
+    "name": "Drone",
+    "manufacturer": "HP",
+    "price": 83.9,
+    "unit_sold": 848
+  },
+  {
+    "id": 173,
+    "name": "Smart Home Device",
+    "manufacturer": "Toshiba",
+    "price": 802.99,
+    "unit_sold": 414
+  },
+  {
+    "id": 174,
+    "name": "Tablet",
+    "manufacturer": "Oppo",
+    "price": 320.65,
+    "unit_sold": 951
+  },
+  {
+    "id": 175,
+    "name": "Toaster",
+    "manufacturer": "Huawei",
+    "price": 190.89,
+    "unit_sold": 120
+  },
+  {
+    "id": 176,
+    "name": "Headphones",
+    "manufacturer": "Apple",
+    "price": 352.56,
+    "unit_sold": 775
+  },
+  {
+    "id": 177,
+    "name": "Camera",
+    "manufacturer": "Vivo",
+    "price": 675.87,
+    "unit_sold": 842
+  },
+  {
+    "id": 178,
+    "name": "Laptop",
+    "manufacturer": "LG",
+    "price": 883.93,
+    "unit_sold": 531
+  },
+  {
+    "id": 179,
+    "name": "Smart Home Device",
+    "manufacturer": "Philips",
+    "price": 518.32,
+    "unit_sold": 238
+  },
+  {
+    "id": 180,
+    "name": "Smart Home Device",
+    "manufacturer": "Vivo",
+    "price": 222.34,
+    "unit_sold": 641
+  },
+  {
+    "id": 181,
+    "name": "Watch",
+    "manufacturer": "Panasonic",
+    "price": 841.25,
+    "unit_sold": 115
+  },
+  {
+    "id": 182,
+    "name": "Toaster",
+    "manufacturer": "Panasonic",
+    "price": 755.46,
+    "unit_sold": 59
+  },
+  {
+    "id": 183,
+    "name": "Tablet",
+    "manufacturer": "Acer",
+    "price": 137.62,
+    "unit_sold": 488
+  },
+  {
+    "id": 184,
+    "name": "Camera",
+    "manufacturer": "Asus",
+    "price": 552.94,
+    "unit_sold": 78
+  },
+  {
+    "id": 185,
+    "name": "Washing Machine",
+    "manufacturer": "Samsung",
+    "price": 55.33,
+    "unit_sold": 225
+  },
+  {
+    "id": 186,
+    "name": "Toaster",
+    "manufacturer": "Asus",
+    "price": 945.46,
+    "unit_sold": 225
+  },
+  {
+    "id": 187,
+    "name": "TV",
+    "manufacturer": "Huawei",
+    "price": 210.95,
+    "unit_sold": 446
+  },
+  {
+    "id": 188,
+    "name": "TV",
+    "manufacturer": "LG",
+    "price": 901.18,
+    "unit_sold": 66
+  },
+  {
+    "id": 189,
+    "name": "Camera",
+    "manufacturer": "Sony",
+    "price": 762.39,
+    "unit_sold": 549
+  },
+  {
+    "id": 190,
+    "name": "Speaker",
+    "manufacturer": "Panasonic",
+    "price": 69.2,
+    "unit_sold": 42
+  },
+  {
+    "id": 191,
+    "name": "Washing Machine",
+    "manufacturer": "Philips",
+    "price": 641.77,
+    "unit_sold": 227
+  },
+  {
+    "id": 192,
+    "name": "Smart Home Device",
+    "manufacturer": "Lenovo",
+    "price": 341.28,
+    "unit_sold": 279
+  },
+  {
+    "id": 193,
+    "name": "TV",
+    "manufacturer": "Asus",
+    "price": 828.77,
+    "unit_sold": 165
+  },
+  {
+    "id": 194,
+    "name": "Toaster",
+    "manufacturer": "OnePlus",
+    "price": 682.97,
+    "unit_sold": 312
+  },
+  {
+    "id": 195,
+    "name": "Headphones",
+    "manufacturer": "Apple",
+    "price": 304.0,
+    "unit_sold": 129
+  },
+  {
+    "id": 196,
+    "name": "Game Console",
+    "manufacturer": "Microsoft",
+    "price": 100.41,
+    "unit_sold": 133
+  },
+  {
+    "id": 197,
+    "name": "Air Conditioner",
+    "manufacturer": "Acer",
+    "price": 238.8,
+    "unit_sold": 803
+  },
+  {
+    "id": 198,
+    "name": "Toaster",
+    "manufacturer": "Huawei",
+    "price": 128.06,
+    "unit_sold": 581
+  },
+  {
+    "id": 199,
+    "name": "Drone",
+    "manufacturer": "Lenovo",
+    "price": 501.86,
+    "unit_sold": 430
+  },
+  {
+    "id": 200,
+    "name": "TV",
+    "manufacturer": "LG",
+    "price": 343.39,
+    "unit_sold": 855
+  },
+  {
+    "id": 201,
+    "name": "Speaker",
+    "manufacturer": "Huawei",
+    "price": 672.62,
+    "unit_sold": 124
+  },
+  {
+    "id": 202,
+    "name": "Coffee Maker",
+    "manufacturer": "Philips",
+    "price": 869.33,
+    "unit_sold": 184
+  },
+  {
+    "id": 203,
+    "name": "Refrigerator",
+    "manufacturer": "Microsoft",
+    "price": 951.8,
+    "unit_sold": 535
+  },
+  {
+    "id": 204,
+    "name": "Washing Machine",
+    "manufacturer": "Apple",
+    "price": 937.8,
+    "unit_sold": 986
+  },
+  {
+    "id": 205,
+    "name": "TV",
+    "manufacturer": "Acer",
+    "price": 160.25,
+    "unit_sold": 576
+  },
+  {
+    "id": 206,
+    "name": "Microwave",
+    "manufacturer": "Oppo",
+    "price": 984.75,
+    "unit_sold": 344
+  },
+  {
+    "id": 207,
+    "name": "Game Console",
+    "manufacturer": "Vivo",
+    "price": 346.85,
+    "unit_sold": 771
+  },
+  {
+    "id": 208,
+    "name": "Coffee Maker",
+    "manufacturer": "Sony",
+    "price": 538.27,
+    "unit_sold": 300
+  },
+  {
+    "id": 209,
+    "name": "Smartphone",
+    "manufacturer": "Sony",
+    "price": 215.28,
+    "unit_sold": 226
+  },
+  {
+    "id": 210,
+    "name": "Camera",
+    "manufacturer": "Panasonic",
+    "price": 437.03,
+    "unit_sold": 685
+  },
+  {
+    "id": 211,
+    "name": "Game Console",
+    "manufacturer": "Philips",
+    "price": 826.56,
+    "unit_sold": 259
+  },
+  {
+    "id": 212,
+    "name": "Camera",
+    "manufacturer": "Dell",
+    "price": 618.64,
+    "unit_sold": 194
+  },
+  {
+    "id": 213,
+    "name": "Refrigerator",
+    "manufacturer": "Lenovo",
+    "price": 647.47,
+    "unit_sold": 911
+  },
+  {
+    "id": 214,
+    "name": "Drone",
+    "manufacturer": "Asus",
+    "price": 613.61,
+    "unit_sold": 224
+  },
+  {
+    "id": 215,
+    "name": "Speaker",
+    "manufacturer": "Panasonic",
+    "price": 777.6,
+    "unit_sold": 602
+  },
+  {
+    "id": 216,
+    "name": "Video Game",
+    "manufacturer": "Huawei",
+    "price": 678.57,
+    "unit_sold": 279
+  },
+  {
+    "id": 217,
+    "name": "Smartphone",
+    "manufacturer": "Toshiba",
+    "price": 199.67,
+    "unit_sold": 97
+  },
+  {
+    "id": 218,
+    "name": "Air Conditioner",
+    "manufacturer": "Huawei",
+    "price": 550.05,
+    "unit_sold": 931
+  },
+  {
+    "id": 219,
+    "name": "Toaster",
+    "manufacturer": "Asus",
+    "price": 869.55,
+    "unit_sold": 385
+  },
+  {
+    "id": 220,
+    "name": "Tablet",
+    "manufacturer": "Asus",
+    "price": 371.33,
+    "unit_sold": 280
+  },
+  {
+    "id": 221,
+    "name": "Router",
+    "manufacturer": "Acer",
+    "price": 874.91,
+    "unit_sold": 498
+  },
+  {
+    "id": 222,
+    "name": "Video Game",
+    "manufacturer": "Xiaomi",
+    "price": 916.32,
+    "unit_sold": 573
+  },
+  {
+    "id": 223,
+    "name": "TV",
+    "manufacturer": "Google",
+    "price": 723.08,
+    "unit_sold": 69
+  },
+  {
+    "id": 224,
+    "name": "Refrigerator",
+    "manufacturer": "Toshiba",
+    "price": 787.29,
+    "unit_sold": 816
+  },
+  {
+    "id": 225,
+    "name": "Smartphone",
+    "manufacturer": "Samsung",
+    "price": 727.93,
+    "unit_sold": 235
+  },
+  {
+    "id": 226,
+    "name": "Headphones",
+    "manufacturer": "Google",
+    "price": 129.87,
+    "unit_sold": 411
+  },
+  {
+    "id": 227,
+    "name": "Laptop",
+    "manufacturer": "Sony",
+    "price": 643.45,
+    "unit_sold": 679
+  },
+  {
+    "id": 228,
+    "name": "Laptop",
+    "manufacturer": "Oppo",
+    "price": 696.92,
+    "unit_sold": 51
+  },
+  {
+    "id": 229,
+    "name": "Drone",
+    "manufacturer": "Xiaomi",
+    "price": 694.1,
+    "unit_sold": 417
+  },
+  {
+    "id": 230,
+    "name": "Tablet",
+    "manufacturer": "Realme",
+    "price": 278.69,
+    "unit_sold": 469
+  },
+  {
+    "id": 231,
+    "name": "Refrigerator",
+    "manufacturer": "Google",
+    "price": 787.97,
+    "unit_sold": 688
+  },
+  {
+    "id": 232,
+    "name": "Tablet",
+    "manufacturer": "Xiaomi",
+    "price": 840.28,
+    "unit_sold": 345
+  },
+  {
+    "id": 233,
+    "name": "Drone",
+    "manufacturer": "Panasonic",
+    "price": 457.93,
+    "unit_sold": 973
+  },
+  {
+    "id": 234,
+    "name": "Tablet",
+    "manufacturer": "Acer",
+    "price": 736.22,
+    "unit_sold": 86
+  },
+  {
+    "id": 235,
+    "name": "Smartphone",
+    "manufacturer": "Oppo",
+    "price": 801.89,
+    "unit_sold": 559
+  },
+  {
+    "id": 236,
+    "name": "Air Conditioner",
+    "manufacturer": "HP",
+    "price": 899.21,
+    "unit_sold": 166
+  },
+  {
+    "id": 237,
+    "name": "Blender",
+    "manufacturer": "Dell",
+    "price": 277.06,
+    "unit_sold": 41
+  },
+  {
+    "id": 238,
+    "name": "Blender",
+    "manufacturer": "Sony",
+    "price": 981.97,
+    "unit_sold": 544
+  },
+  {
+    "id": 239,
+    "name": "Blender",
+    "manufacturer": "Xiaomi",
+    "price": 486.62,
+    "unit_sold": 458
+  },
+  {
+    "id": 240,
+    "name": "Watch",
+    "manufacturer": "Huawei",
+    "price": 699.35,
+    "unit_sold": 498
+  },
+  {
+    "id": 241,
+    "name": "Drone",
+    "manufacturer": "Huawei",
+    "price": 732.52,
+    "unit_sold": 665
+  },
+  {
+    "id": 242,
+    "name": "Coffee Maker",
+    "manufacturer": "Lenovo",
+    "price": 471.67,
+    "unit_sold": 558
+  },
+  {
+    "id": 243,
+    "name": "Game Console",
+    "manufacturer": "Philips",
+    "price": 644.17,
+    "unit_sold": 801
+  },
+  {
+    "id": 244,
+    "name": "Video Game",
+    "manufacturer": "Acer",
+    "price": 783.25,
+    "unit_sold": 948
+  },
+  {
+    "id": 245,
+    "name": "Drone",
+    "manufacturer": "Xiaomi",
+    "price": 961.46,
+    "unit_sold": 643
+  },
+  {
+    "id": 246,
+    "name": "Toaster",
+    "manufacturer": "Toshiba",
+    "price": 406.42,
+    "unit_sold": 41
+  },
+  {
+    "id": 247,
+    "name": "Watch",
+    "manufacturer": "Google",
+    "price": 254.55,
+    "unit_sold": 581
+  },
+  {
+    "id": 248,
+    "name": "Laptop",
+    "manufacturer": "Microsoft",
+    "price": 96.7,
+    "unit_sold": 196
+  },
+  {
+    "id": 249,
+    "name": "Coffee Maker",
+    "manufacturer": "OnePlus",
+    "price": 150.63,
+    "unit_sold": 626
+  },
+  {
+    "id": 250,
+    "name": "Router",
+    "manufacturer": "Lenovo",
+    "price": 136.34,
+    "unit_sold": 592
+  },
+  {
+    "id": 251,
+    "name": "Coffee Maker",
+    "manufacturer": "Samsung",
+    "price": 107.57,
+    "unit_sold": 710
+  },
+  {
+    "id": 252,
+    "name": "Blender",
+    "manufacturer": "Philips",
+    "price": 91.01,
+    "unit_sold": 469
+  },
+  {
+    "id": 253,
+    "name": "TV",
+    "manufacturer": "Huawei",
+    "price": 594.42,
+    "unit_sold": 264
+  },
+  {
+    "id": 254,
+    "name": "Speaker",
+    "manufacturer": "Philips",
+    "price": 617.94,
+    "unit_sold": 844
+  },
+  {
+    "id": 255,
+    "name": "TV",
+    "manufacturer": "Toshiba",
+    "price": 381.96,
+    "unit_sold": 811
+  },
+  {
+    "id": 256,
+    "name": "Drone",
+    "manufacturer": "Huawei",
+    "price": 725.17,
+    "unit_sold": 348
+  },
+  {
+    "id": 257,
+    "name": "Headphones",
+    "manufacturer": "Apple",
+    "price": 223.87,
+    "unit_sold": 372
+  },
+  {
+    "id": 258,
+    "name": "Speaker",
+    "manufacturer": "Vivo",
+    "price": 254.52,
+    "unit_sold": 30
+  },
+  {
+    "id": 259,
+    "name": "Game Console",
+    "manufacturer": "Panasonic",
+    "price": 88.11,
+    "unit_sold": 778
+  },
+  {
+    "id": 260,
+    "name": "Air Conditioner",
+    "manufacturer": "HP",
+    "price": 241.25,
+    "unit_sold": 149
+  },
+  {
+    "id": 261,
+    "name": "Smart Home Device",
+    "manufacturer": "Huawei",
+    "price": 157.11,
+    "unit_sold": 532
+  },
+  {
+    "id": 262,
+    "name": "TV",
+    "manufacturer": "Realme",
+    "price": 886.41,
+    "unit_sold": 89
+  },
+  {
+    "id": 263,
+    "name": "Blender",
+    "manufacturer": "Asus",
+    "price": 487.03,
+    "unit_sold": 958
+  },
+  {
+    "id": 264,
+    "name": "Smart Home Device",
+    "manufacturer": "Philips",
+    "price": 712.26,
+    "unit_sold": 499
+  },
+  {
+    "id": 265,
+    "name": "Air Conditioner",
+    "manufacturer": "Realme",
+    "price": 827.38,
+    "unit_sold": 76
+  },
+  {
+    "id": 266,
+    "name": "Microwave",
+    "manufacturer": "Philips",
+    "price": 992.48,
+    "unit_sold": 11
+  },
+  {
+    "id": 267,
+    "name": "Camera",
+    "manufacturer": "Huawei",
+    "price": 424.11,
+    "unit_sold": 176
+  },
+  {
+    "id": 268,
+    "name": "Refrigerator",
+    "manufacturer": "OnePlus",
+    "price": 184.72,
+    "unit_sold": 890
+  },
+  {
+    "id": 269,
+    "name": "TV",
+    "manufacturer": "Panasonic",
+    "price": 95.8,
+    "unit_sold": 671
+  },
+  {
+    "id": 270,
+    "name": "Headphones",
+    "manufacturer": "Apple",
+    "price": 868.43,
+    "unit_sold": 579
+  },
+  {
+    "id": 271,
+    "name": "Router",
+    "manufacturer": "OnePlus",
+    "price": 320.96,
+    "unit_sold": 529
+  },
+  {
+    "id": 272,
+    "name": "Video Game",
+    "manufacturer": "Dell",
+    "price": 307.81,
+    "unit_sold": 365
+  },
+  {
+    "id": 273,
+    "name": "Smartphone",
+    "manufacturer": "Vivo",
+    "price": 473.77,
+    "unit_sold": 132
+  },
+  {
+    "id": 274,
+    "name": "Drone",
+    "manufacturer": "Oppo",
+    "price": 886.99,
+    "unit_sold": 749
+  },
+  {
+    "id": 275,
+    "name": "Game Console",
+    "manufacturer": "Microsoft",
+    "price": 464.38,
+    "unit_sold": 721
+  },
+  {
+    "id": 276,
+    "name": "Tablet",
+    "manufacturer": "Lenovo",
+    "price": 645.1,
+    "unit_sold": 628
+  },
+  {
+    "id": 277,
+    "name": "Washing Machine",
+    "manufacturer": "Samsung",
+    "price": 610.17,
+    "unit_sold": 26
+  },
+  {
+    "id": 278,
+    "name": "Blender",
+    "manufacturer": "HP",
+    "price": 289.61,
+    "unit_sold": 758
+  },
+  {
+    "id": 279,
+    "name": "Game Console",
+    "manufacturer": "Apple",
+    "price": 724.89,
+    "unit_sold": 706
+  },
+  {
+    "id": 280,
+    "name": "Watch",
+    "manufacturer": "Samsung",
+    "price": 272.64,
+    "unit_sold": 989
+  },
+  {
+    "id": 281,
+    "name": "Laptop",
+    "manufacturer": "Asus",
+    "price": 501.97,
+    "unit_sold": 874
+  },
+  {
+    "id": 282,
+    "name": "TV",
+    "manufacturer": "Asus",
+    "price": 740.81,
+    "unit_sold": 440
+  },
+  {
+    "id": 283,
+    "name": "Headphones",
+    "manufacturer": "LG",
+    "price": 621.66,
+    "unit_sold": 812
+  },
+  {
+    "id": 284,
+    "name": "Microwave",
+    "manufacturer": "LG",
+    "price": 657.76,
+    "unit_sold": 56
+  },
+  {
+    "id": 285,
+    "name": "Headphones",
+    "manufacturer": "Xiaomi",
+    "price": 464.23,
+    "unit_sold": 608
+  },
+  {
+    "id": 286,
+    "name": "Washing Machine",
+    "manufacturer": "Samsung",
+    "price": 218.89,
+    "unit_sold": 723
+  },
+  {
+    "id": 287,
+    "name": "TV",
+    "manufacturer": "Oppo",
+    "price": 756.35,
+    "unit_sold": 189
+  },
+  {
+    "id": 288,
+    "name": "Headphones",
+    "manufacturer": "Acer",
+    "price": 51.5,
+    "unit_sold": 338
+  },
+  {
+    "id": 289,
+    "name": "Speaker",
+    "manufacturer": "Sony",
+    "price": 132.15,
+    "unit_sold": 844
+  },
+  {
+    "id": 290,
+    "name": "Headphones",
+    "manufacturer": "Asus",
+    "price": 86.43,
+    "unit_sold": 705
+  },
+  {
+    "id": 291,
+    "name": "Microwave",
+    "manufacturer": "Philips",
+    "price": 420.84,
+    "unit_sold": 65
+  },
+  {
+    "id": 292,
+    "name": "Game Console",
+    "manufacturer": "Asus",
+    "price": 585.83,
+    "unit_sold": 807
+  },
+  {
+    "id": 293,
+    "name": "Washing Machine",
+    "manufacturer": "Oppo",
+    "price": 889.6,
+    "unit_sold": 42
+  },
+  {
+    "id": 294,
+    "name": "Camera",
+    "manufacturer": "Xiaomi",
+    "price": 198.54,
+    "unit_sold": 478
+  },
+  {
+    "id": 295,
+    "name": "Laptop",
+    "manufacturer": "Vivo",
+    "price": 641.48,
+    "unit_sold": 445
+  },
+  {
+    "id": 296,
+    "name": "Headphones",
+    "manufacturer": "Xiaomi",
+    "price": 706.69,
+    "unit_sold": 691
+  },
+  {
+    "id": 297,
+    "name": "Blender",
+    "manufacturer": "Asus",
+    "price": 953.2,
+    "unit_sold": 343
+  },
+  {
+    "id": 298,
+    "name": "Watch",
+    "manufacturer": "Realme",
+    "price": 324.4,
+    "unit_sold": 862
+  },
+  {
+    "id": 299,
+    "name": "Game Console",
+    "manufacturer": "Sony",
+    "price": 856.69,
+    "unit_sold": 364
+  },
+  {
+    "id": 300,
+    "name": "Tablet",
+    "manufacturer": "Sony",
+    "price": 188.87,
+    "unit_sold": 605
+  }
+]
